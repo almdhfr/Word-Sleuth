@@ -1,0 +1,40 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="AreaIcon_UI">
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+		</type>
+		<type fullname="CharacterIcon_UI">
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+		</type>
+		<type fullname="GameManager">
+			<method name="GoToAreaByIndex"/>
+		</type>
+		<type fullname="ItemIcon_UI">
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+			<method name="OnClicked"/>
+		</type>
+		<type fullname="OverlayMap_UI">
+			<method name="OnClicked"/>
+		</type>
+	</assembly>
+</linker>
